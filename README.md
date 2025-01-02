@@ -14,7 +14,7 @@ This project is a mobile chat application built using React Native, Expo, and Go
 - **Screen Reader Compatibility**: The app is designed to be accessible for users with visual impairments.
 - **Customizable UI**: Users can choose a background color for the chat screen and enter their name.
 
-## Requirements
+## Technical Requirements
 
 - **React Native**: For building the mobile app.
 - **Expo**: To streamline the development process and manage app deployment.
