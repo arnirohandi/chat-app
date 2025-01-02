@@ -54,4 +54,3 @@ This project is a mobile chat application built using React Native, Expo, and Go
 - Push notifications (coming soon)
 - Enhanced user profile management
 - Group chat functionality
-```
