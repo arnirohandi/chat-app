@@ -55,5 +55,3 @@ This project is a mobile chat application built using React Native, Expo, and Go
 - Enhanced user profile management
 - Group chat functionality
 ```
-
-This version omits the screen design, license, and contributing sections while keeping the core details intact. Let me know if you'd like to add or modify anything!
