@@ -45,9 +45,9 @@ This project is a mobile chat application built using React Native, Expo, and Go
 
 ## Usage
 
-1. Upon launching the app, users will be prompted to enter their name and choose a background color for the chat screen.
-2. Users can start chatting, send images, and share their location in real-time.
-3. The app will store messages offline and allow users to view them even when they are not connected to the internet.
+- Upon launching the app, users will be prompted to enter their name and choose a background color for the chat screen.
+- Users can start chatting, send images, and share their location in real-time.
+- The app will store messages offline and allow users to view them even when they are not connected to the internet.
 
 ## Features in Progress
 
