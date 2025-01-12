@@ -12,7 +12,6 @@ This project is a mobile chat application built using React Native, Expo, and Go
 - **Location Sharing**: Users can share their current location via a map view in the chat.
 - **Offline Functionality**: Messages are stored locally, allowing users to read conversations offline.
 - **Screen Reader Compatibility**: The app is designed to be accessible for users with visual impairments.
-- **Customizable UI**: Users can choose a background color for the chat screen and enter their name.
 
 ## Technical Requirements
 
@@ -28,7 +27,7 @@ This project is a mobile chat application built using React Native, Expo, and Go
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/chat-app.git
+   git clone https://github.com/arnirohandi/chat-app.git
    ```
 2. Navigate to the project folder:
    ```bash
